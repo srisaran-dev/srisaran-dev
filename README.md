@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Sri Saran
 
-<!--
-**srisaran-dev/srisaran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I am passionate about building modern web applications and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Django
+- Git & GitHub
+- UI/UX Design (Figma)
+
+### 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+- Git
+- GitHub
+- Figma
+
+### 📂 Current Projects
+
+- 🎯 Job Search UI
+- 🌐 Personal Portfolio
+- 🛒 E-commerce Website
+- 🎬 Movie Ticket Booking UI
+
+### 🎯 Goals
+
+- Become a Full Stack Developer
+- Build 20+ Real-world Projects
+- Contribute to Open Source
+- Get my first Software Developer Job
+
+### 📫 Connect with Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
+
+⭐ Thanks for visiting my profile!
