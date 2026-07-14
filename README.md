@@ -1,6 +1,5 @@
-# Hi 👋, I'm Sri Saran
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Sri+Saran;Aspiring+Full+Stack+Developer;Python+%7C+Django+%7C+JavaScript;UI%2FUX+Designer)](https://git.io/typing-svg)
 
-## 💻 Aspiring Full Stack Developer
 
 I am passionate about building modern web applications and continuously improving my development skills.
 
